@@ -1,7 +1,7 @@
 {
   "correctAnswerScore": 15,
   "wrongAnswerPenalty": 5,
-  "gameDuration": 65,
+  "gameDuration": 75,
   "maxClickDistance": 1000,
   "debugClickRaycast": false,
   "useLetterRotationForEffect": false,
