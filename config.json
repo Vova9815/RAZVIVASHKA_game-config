@@ -1,7 +1,7 @@
 {
   "correctAnswerScore": 15,
   "wrongAnswerPenalty": 5,
-  "gameDuration": 60,
+  "gameDuration": 65,
   "maxClickDistance": 1000,
   "debugClickRaycast": false,
   "useLetterRotationForEffect": false,
@@ -16,5 +16,5 @@
   "ratio2To1ScoreMultiplier": 1,
   "ratio1To1ScoreMultiplier": 2,
   "ratio1To2ScoreMultiplier": 3,
-  "mainMenuSceneName": "MainMenu"
+  "mainMenuSceneName": "MenuTEST"
 }
