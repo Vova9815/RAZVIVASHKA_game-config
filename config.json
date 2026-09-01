@@ -1,0 +1,20 @@
+{
+  "correctAnswerScore": 15,
+  "wrongAnswerPenalty": 5,
+  "gameDuration": 60,
+  "maxClickDistance": 1000,
+  "debugClickRaycast": false,
+  "useLetterRotationForEffect": false,
+  "scoreBoostDuration": 0.5,
+  "scoreBoostMultiplier": 2,
+  "timerCriticalTime": 3,
+  "timerBoostDuration": 3,
+  "timerBoostMultiplier": 3,
+  "targetLetterBoostDuration": 3,
+  "targetLetterBoostMultiplier": 3,
+  "ratio4To1ScoreMultiplier": 0.5,
+  "ratio2To1ScoreMultiplier": 1,
+  "ratio1To1ScoreMultiplier": 2,
+  "ratio1To2ScoreMultiplier": 3,
+  "mainMenuSceneName": "MainMenu"
+}
